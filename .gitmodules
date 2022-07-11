@@ -1,0 +1,33 @@
+[submodule "libs/abstraction-rtos"]
+	path = libs/abstraction-rtos
+	url = https://github.com/Infineon/abstraction-rtos.git
+[submodule "libs/clib-support"]
+	path = libs/clib-support
+	url = https://github.com/Infineon/clib-support.git
+[submodule "libs/core-lib"]
+	path = libs/core-lib
+	url = https://github.com/Infineon/core-lib.git
+[submodule "libs/core-make"]
+	path = libs/core-make
+	url = https://github.com/Infineon/core-make.git
+[submodule "libs/freertos"]
+	path = libs/freertos
+	url = https://github.com/Infineon/freertos.git
+[submodule "libs/mtb-hal-cat1"]
+	path = libs/mtb-hal-cat1
+	url = https://github.com/Infineon/mtb-hal-cat1.git
+[submodule "libs/mtb-pdl-cat1"]
+	path = libs/mtb-pdl-cat1
+	url = https://github.com/Infineon/mtb-pdl-cat1.git
+[submodule "libs/psoc6cm0p"]
+	path = libs/psoc6cm0p
+	url = https://github.com/Infineon/psoc6cm0p.git
+[submodule "libs/recipe-make-cat1a"]
+	path = libs/recipe-make-cat1a
+	url = https://github.com/Infineon/recipe-make-cat1a.git
+[submodule "libs/retarget-io"]
+	path = libs/retarget-io
+	url = https://github.com/Infineon/retarget-io.git
+[submodule "libs/TARGET_PSOC6-GENERIC"]
+	path = libs/TARGET_PSOC6-GENERIC
+	url = https://github.com/Infineon/TARGET_PSOC6-GENERIC.git
